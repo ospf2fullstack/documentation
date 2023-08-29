@@ -1,0 +1,9 @@
+site_name: Documentation
+site_description: My site description for documents of documents...
+site_favicon: assets/favicon.ico
+
+repo_name: GitHub
+repo_url: https://github.com/ospf2fullstack/documentation
+
+theme:
+  name: 'material'
